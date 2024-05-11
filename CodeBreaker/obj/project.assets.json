@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshs\\dev\\CodeBreaker\\CodeBreaker.csproj",
+      "projectUniqueName": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\CodeBreaker\\CodeBreaker.csproj",
       "projectName": "CodeBreaker",
-      "projectPath": "C:\\Users\\joshs\\dev\\CodeBreaker\\CodeBreaker.csproj",
+      "projectPath": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\CodeBreaker\\CodeBreaker.csproj",
       "packagesPath": "C:\\Users\\joshs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshs\\dev\\CodeBreaker\\obj\\",
+      "outputPath": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\CodeBreaker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joshs\\AppData\\Roaming\\NuGet\\NuGet.Config"

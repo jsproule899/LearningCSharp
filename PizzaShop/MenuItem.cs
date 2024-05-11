@@ -2,7 +2,7 @@ using System.Dynamic;
 
 class MenuItem : IDetail
 {
-    private string _name;
+    private string _name = "NEW ITEM";
     public string Name
     {
         get { return _name; }
@@ -15,15 +15,18 @@ class MenuItem : IDetail
             else { _name = "INVALID NAME"; }
         }
     }
-    
-    private double _price;
+
+    private double _price = 0.00;
     public double Price
     {
         get { return _price; }
         set { if (value > 0) _price = value; else _price = 0.00; }
     }
-    
 
+
+    public MenuItem()
+    {
+    }
     public MenuItem(string name, double price)
     {
         this.Name = name;
@@ -33,7 +36,7 @@ class MenuItem : IDetail
 
     public void PrintDetails()
     {
-        Console.WriteLine("{0} \t\t £{1:0.00}", _name, _price);
+        Console.WriteLine("{0}{1} £{2:0.00}", _name, new string(' ', 20 - Name.Length), _price);
     }
 
     private bool ValidateName(string s)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ynDJh0asgfNgn67pAFtVohbEcTP9h3HnygcgE0vxpapr5TpQ5VoPOY7RhL18emKEuI33/FpBuKsQDuCDjzrgHw==",
+  "dgSpecHash": "awMbMzAsz5Qc+olSZcmmjmPwrDDzxfEc/rEVCNE5/2kJrdOG1oD5ynC22mYxqeeAOx1l6Z6WTK1rZkpfo+MyRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joshs\\dev\\BookCipher\\BookCipher.csproj",
+  "projectFilePath": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\BookCipher\\BookCipher.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

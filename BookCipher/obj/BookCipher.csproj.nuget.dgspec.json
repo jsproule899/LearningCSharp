@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joshs\\dev\\BookCipher\\BookCipher.csproj": {}
+    "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\BookCipher\\BookCipher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joshs\\dev\\BookCipher\\BookCipher.csproj": {
+    "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\BookCipher\\BookCipher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshs\\dev\\BookCipher\\BookCipher.csproj",
+        "projectUniqueName": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\BookCipher\\BookCipher.csproj",
         "projectName": "BookCipher",
-        "projectPath": "C:\\Users\\joshs\\dev\\BookCipher\\BookCipher.csproj",
+        "projectPath": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\BookCipher\\BookCipher.csproj",
         "packagesPath": "C:\\Users\\joshs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshs\\dev\\BookCipher\\obj\\",
+        "outputPath": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\BookCipher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joshs\\AppData\\Roaming\\NuGet\\NuGet.Config"

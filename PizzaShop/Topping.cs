@@ -1,4 +1,5 @@
-enum Topping {
+enum Topping
+{
     Extracheese,
     Pepperoni,
     Beef,
@@ -6,7 +7,7 @@ enum Topping {
     Ham,
     Pineapple,
     Peppers,
-    Onions,
+    Onions ,
     Mushrooms,
     Olives
 }

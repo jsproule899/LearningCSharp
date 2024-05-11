@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshs\\dev\\BinaryFinary\\BinaryFinary.csproj",
+      "projectUniqueName": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\BinaryFinary\\BinaryFinary.csproj",
       "projectName": "BinaryFinary",
-      "projectPath": "C:\\Users\\joshs\\dev\\BinaryFinary\\BinaryFinary.csproj",
+      "projectPath": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\BinaryFinary\\BinaryFinary.csproj",
       "packagesPath": "C:\\Users\\joshs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshs\\dev\\BinaryFinary\\obj\\",
+      "outputPath": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\BinaryFinary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joshs\\AppData\\Roaming\\NuGet\\NuGet.Config"
