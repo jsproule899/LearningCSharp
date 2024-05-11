@@ -1,0 +1,14 @@
+C:\Users\joshs\dev\CodeBreaker\bin\Debug\net8.0\CodeBreaker.exe
+C:\Users\joshs\dev\CodeBreaker\bin\Debug\net8.0\CodeBreaker.deps.json
+C:\Users\joshs\dev\CodeBreaker\bin\Debug\net8.0\CodeBreaker.runtimeconfig.json
+C:\Users\joshs\dev\CodeBreaker\bin\Debug\net8.0\CodeBreaker.dll
+C:\Users\joshs\dev\CodeBreaker\bin\Debug\net8.0\CodeBreaker.pdb
+C:\Users\joshs\dev\CodeBreaker\obj\Debug\net8.0\CodeBreaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshs\dev\CodeBreaker\obj\Debug\net8.0\CodeBreaker.AssemblyInfoInputs.cache
+C:\Users\joshs\dev\CodeBreaker\obj\Debug\net8.0\CodeBreaker.AssemblyInfo.cs
+C:\Users\joshs\dev\CodeBreaker\obj\Debug\net8.0\CodeBreaker.csproj.CoreCompileInputs.cache
+C:\Users\joshs\dev\CodeBreaker\obj\Debug\net8.0\CodeBreaker.dll
+C:\Users\joshs\dev\CodeBreaker\obj\Debug\net8.0\refint\CodeBreaker.dll
+C:\Users\joshs\dev\CodeBreaker\obj\Debug\net8.0\CodeBreaker.pdb
+C:\Users\joshs\dev\CodeBreaker\obj\Debug\net8.0\CodeBreaker.genruntimeconfig.cache
+C:\Users\joshs\dev\CodeBreaker\obj\Debug\net8.0\ref\CodeBreaker.dll

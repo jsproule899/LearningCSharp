@@ -1,0 +1,14 @@
+C:\Users\joshs\dev\BookCipher\bin\Debug\net8.0\BookCipher.exe
+C:\Users\joshs\dev\BookCipher\bin\Debug\net8.0\BookCipher.deps.json
+C:\Users\joshs\dev\BookCipher\bin\Debug\net8.0\BookCipher.runtimeconfig.json
+C:\Users\joshs\dev\BookCipher\bin\Debug\net8.0\BookCipher.dll
+C:\Users\joshs\dev\BookCipher\bin\Debug\net8.0\BookCipher.pdb
+C:\Users\joshs\dev\BookCipher\obj\Debug\net8.0\BookCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshs\dev\BookCipher\obj\Debug\net8.0\BookCipher.AssemblyInfoInputs.cache
+C:\Users\joshs\dev\BookCipher\obj\Debug\net8.0\BookCipher.AssemblyInfo.cs
+C:\Users\joshs\dev\BookCipher\obj\Debug\net8.0\BookCipher.csproj.CoreCompileInputs.cache
+C:\Users\joshs\dev\BookCipher\obj\Debug\net8.0\BookCipher.dll
+C:\Users\joshs\dev\BookCipher\obj\Debug\net8.0\refint\BookCipher.dll
+C:\Users\joshs\dev\BookCipher\obj\Debug\net8.0\BookCipher.pdb
+C:\Users\joshs\dev\BookCipher\obj\Debug\net8.0\BookCipher.genruntimeconfig.cache
+C:\Users\joshs\dev\BookCipher\obj\Debug\net8.0\ref\BookCipher.dll

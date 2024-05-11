@@ -1,0 +1,14 @@
+C:\Users\joshs\dev\BinaryFinary\bin\Debug\net8.0\BinaryFinary.exe
+C:\Users\joshs\dev\BinaryFinary\bin\Debug\net8.0\BinaryFinary.deps.json
+C:\Users\joshs\dev\BinaryFinary\bin\Debug\net8.0\BinaryFinary.runtimeconfig.json
+C:\Users\joshs\dev\BinaryFinary\bin\Debug\net8.0\BinaryFinary.dll
+C:\Users\joshs\dev\BinaryFinary\bin\Debug\net8.0\BinaryFinary.pdb
+C:\Users\joshs\dev\BinaryFinary\obj\Debug\net8.0\BinaryFinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshs\dev\BinaryFinary\obj\Debug\net8.0\BinaryFinary.AssemblyInfoInputs.cache
+C:\Users\joshs\dev\BinaryFinary\obj\Debug\net8.0\BinaryFinary.AssemblyInfo.cs
+C:\Users\joshs\dev\BinaryFinary\obj\Debug\net8.0\BinaryFinary.csproj.CoreCompileInputs.cache
+C:\Users\joshs\dev\BinaryFinary\obj\Debug\net8.0\BinaryFinary.dll
+C:\Users\joshs\dev\BinaryFinary\obj\Debug\net8.0\refint\BinaryFinary.dll
+C:\Users\joshs\dev\BinaryFinary\obj\Debug\net8.0\BinaryFinary.pdb
+C:\Users\joshs\dev\BinaryFinary\obj\Debug\net8.0\BinaryFinary.genruntimeconfig.cache
+C:\Users\joshs\dev\BinaryFinary\obj\Debug\net8.0\ref\BinaryFinary.dll
