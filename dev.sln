@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryFinary", "BinaryFinar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaShop", "PizzaShop\PizzaShop.csproj", "{478E55E5-BFB2-417E-9FF5-93D0C587A323}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithims", "Algorithims\Algorithims.csproj", "{1004747B-13E2-4112-A987-FEF770D132D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{478E55E5-BFB2-417E-9FF5-93D0C587A323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{478E55E5-BFB2-417E-9FF5-93D0C587A323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{478E55E5-BFB2-417E-9FF5-93D0C587A323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1004747B-13E2-4112-A987-FEF770D132D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1004747B-13E2-4112-A987-FEF770D132D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1004747B-13E2-4112-A987-FEF770D132D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1004747B-13E2-4112-A987-FEF770D132D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

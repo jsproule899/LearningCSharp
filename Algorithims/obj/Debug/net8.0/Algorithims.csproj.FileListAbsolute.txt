@@ -1,0 +1,15 @@
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\bin\Debug\net8.0\Algorithims.exe
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\bin\Debug\net8.0\Algorithims.deps.json
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\bin\Debug\net8.0\Algorithims.runtimeconfig.json
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\bin\Debug\net8.0\Algorithims.dll
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\bin\Debug\net8.0\Algorithims.pdb
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\Algorithims.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\Algorithims.AssemblyInfoInputs.cache
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\Algorithims.AssemblyInfo.cs
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\Algorithims.csproj.CoreCompileInputs.cache
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\Algorithims.sourcelink.json
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\Algorithims.dll
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\refint\Algorithims.dll
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\Algorithims.pdb
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\Algorithims.genruntimeconfig.cache
+D:\Documents\Queens\Programming\2024\C#\LearningCSharp\Algorithims\obj\Debug\net8.0\ref\Algorithims.dll
