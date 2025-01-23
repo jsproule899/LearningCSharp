@@ -1,0 +1,82 @@
+@{
+    Layout = "_Player";
+}
+
+@model MvcMovie.Models.Video
+
+@{
+    ViewData["Title"] = "Player";
+}
+
+<script src="~/js/videosub.js"></script>
+
+<style>
+    .controls button[data-state="subtitles"] {
+        height: 85%;
+        text-indent: 0;
+        font-size: 16px;
+        font-size: 1rem;
+        font-weight: bold;
+        color: #666;
+        background: #000;
+        border-radius: 2px;
+    }
+</style>
+
+
+<div class="text-center" id="player-container" style="background-color: black;">
+    <video id="video" style="display:flex; height:100dvh; width: 100vw; position: fixed; background-color: black;"
+        controls autoplay preload="metadata" >
+        <source src="/Videos/Stream/@Model.Id" />
+        <track label="English" kind="subtitles" id="subtitles" srclang="en" src="/Videos/Subtitles/@Model.Id" default />
+    </video>
+    <div id="video-controls" class="controls" data-state="hidden">
+        <button id="subtitles" type="button" data-state="subtitles">CC</button>
+    </div>
+</div>
+
+<script>
+
+    const subtitles = document.getElementById("subtitles");
+    const video = document.getElementById("video");
+    document.addEventListener("DOMContentLoaded", function() {
+        toggleFullscreen();  // Attempt to trigger fullscreen on page load
+    });
+
+
+    /**fetch("http://localhost:5184/", {
+    method: 'GET',
+    headers: {
+    Range: 'bytes=0-'
+    }).then(b=>{
+        b.blob().then(blob=>{
+           const dataURL = URL.createObjectURL(blob);
+
+        const videoPlayer = document.getElementById('videoPlayer');
+        videoPlayer.src = dataURL; 
+        }
+
+        )
+
+
+    })**/
+
+    function toggleFullscreen() {
+        if (video.requestFullscreen) {
+            video.requestFullscreen();
+
+        } else if (video.msRequestFullscreen) {
+            video.msRequestFullscreen();
+
+        } else if (video.mozRequestFullScreen) {
+            video.mozRequestFullScreen();
+
+        } else if (video.webkitRequestFullscreen) {
+            video.webkitRequestFullscreen();
+
+        }
+    }
+
+
+
+</script>

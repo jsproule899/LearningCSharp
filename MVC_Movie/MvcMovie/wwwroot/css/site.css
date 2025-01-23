@@ -20,3 +20,25 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.play-button-container {
+  background: rgba(0, 0, 0, .5);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0; 
+  z-index: 1; 
+}
+
+.play-button-container:hover {
+  opacity: 1;
+  cursor: pointer;;
+  transition: opacity .3s;
+}
+
+.play-button{
+  z-index: 2;
+}

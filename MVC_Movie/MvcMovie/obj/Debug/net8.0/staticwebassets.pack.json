@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\MvcMovie.bundle.scp.css"
     },
     {
+      "Id": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\MVC_Movie\\MvcMovie\\wwwroot\\Loading.jpg",
+      "PackagePath": "staticwebassets\\Loading.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\MVC_Movie\\MvcMovie\\wwwroot\\Logo.png",
+      "PackagePath": "staticwebassets\\Logo.png"
+    },
+    {
       "Id": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\MVC_Movie\\MvcMovie\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -243,6 +251,10 @@
     {
       "Id": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\MVC_Movie\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Documents\\Queens\\Programming\\2024\\C#\\LearningCSharp\\MVC_Movie\\MvcMovie\\wwwroot\\video\\Test.mp4",
+      "PackagePath": "staticwebassets\\video\\Test.mp4"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props",
